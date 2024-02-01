@@ -33,10 +33,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  
   <br/>
-
   <br/>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloth-hub&show_icons=true&theme=transparent)
+
+  <h3>👇👇👇 Here are my projects! 👇👇👇</h3>
 
 </div>
 
