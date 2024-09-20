@@ -37,7 +37,7 @@
   <br/>
   <br/>
 
-  <h3>👇👇👇 Here are my projects! 👇👇👇</h3>
+  <h3>👇👇 Here are my projects! 👇👇</h3>
 
 </div>
 
